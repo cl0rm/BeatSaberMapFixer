@@ -1,6 +1,6 @@
 # BeatSaberMapFixer
 
- Simple Script that fixes broken Beat Saber custom Maps that load indefinitely.
+ Simple Script that fixes broken Beat Saber custom maps that load indefinitely.
 
 # Usage
 
